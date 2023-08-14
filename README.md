@@ -44,8 +44,8 @@ Analyzing sales reports provides valuable insights into the business’s current
 We have the below KPIs being visualized in this project :
 1. The publisher that has the highest number of sales
 2. The genre with the highest published sales
-3. The platform that has the highest number of sales, Number of genres,
-4. Number of platforms,
+3. The platform that has the highest number of sales, Number of genres
+4. Number of platforms
 5. Number of publishers Books with the top 10 highest sales
 6. The book with the highest profits and the platform that It benefited from.
 7. It has different kinds of zones.
